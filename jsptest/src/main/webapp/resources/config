@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database>
+    <host>192.168.192.24:3306</host>
+</database>
